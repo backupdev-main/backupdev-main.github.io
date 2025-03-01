@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, I'm Kurogane Gama, software developer. Link to download my [resume](#).Here's a quick overview of my professional journey:
+Hi, I'm Kurogane Gama, software developer. Link to download my [resume](https://github.com/backupdev-main/backupdev-main.github.io/blob/main/_data/Cheenmaya_Bhutad.pdf).Here's a quick overview of my professional journey:
 
 Professional Experience
 ----------
