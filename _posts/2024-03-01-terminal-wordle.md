@@ -1,7 +1,7 @@
 ---
 title: "Terminal Wordle"
 date: 2025-03-01
-categories: [games, tutorial]
+categories: [games, terminal-wordle]
 tags: [java, maven]
 ---
 
