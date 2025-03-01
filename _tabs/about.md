@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, I'm Kurogane Gama, software developer. Here's a quick overview of my professional journey:
+Hi, I'm Kurogane Gama, software developer. Link to download my [resume](#).Here's a quick overview of my professional journey:
 
 Professional Experience
 ----------
@@ -13,9 +13,9 @@ Professional Experience
     *Duration: 11/04/2023 - *\
     Currently, I am working as a Backend Developer at CDAC, where I develop scalable and efficient backend systems. I focus on building robust APIs, designing database structures, and ensuring optimal performance for high-demand applications.
 
--   **Salesforce Developer at a Small Startup**\
+-   **Salesforce Developer at Smarrtt Consulting**\
     *Duration: 22/11/2021 - 18/07/2022*\
-    After IBM, I moved to a fast-paced startup, where I worked as a Salesforce developer. My work included customizing Salesforce CRM, automating sales processes, and creating custom dashboards to enhance business workflows.
+    After IBM, I moved to a Smarrtt Consulting, where I worked as a Salesforce developer. My work included customizing Salesforce CRM, automating sales processes, and creating custom dashboards to enhance business workflows.
 
 -   **Mainframe Programmer at IBM**\
     *Duration: 06/11/2019 - 24/10/2021*\
